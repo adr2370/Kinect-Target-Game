@@ -1,0 +1,13 @@
+﻿<Window x:Class="SkeletalTracking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="578" Width="1435" Closed="Window_Closed" Loaded="Window_Loaded">
+    <Canvas Name="MainCanvas" Height="532" Width="1390">
+        <Image Canvas.Left="695" Canvas.Top="0" Height="530" Name="image1" Stretch="Fill" Width="690" Opacity="0.5" />
+        <Image Canvas.Left="0" Canvas.Top="0" Height="200" Name="target" Stretch="Fill" Width="200" Source="/SkeletalTracking;component/Target.png" ImageFailed="target_ImageFailed" />
+        <Image Canvas.Left="-92" Canvas.Top="0" Height="72" Name="RHand" Width="55" Source="/SkeletalTracking;component/Right%20Hand.png"/>
+        <Label Canvas.Left="512" Canvas.Top="0" Content="Score: " Height="72" Name="Score" Width="121" FontSize="36" />
+        <Label Canvas.Left="610" Canvas.Top="0" Content="0" Height="59" Name="ScoreNumber" Width="80" FontSize="36" HorizontalContentAlignment="Right" />
+        <Image Canvas.Left="-92" Canvas.Top="78" Height="72" Name="LHand" Source="/SkeletalTracking;component/Left%20Hand.png" Width="55" />
+    </Canvas>
+</Window>

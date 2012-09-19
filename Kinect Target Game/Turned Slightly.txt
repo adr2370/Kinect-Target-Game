@@ -1,0 +1,80 @@
+HipCenter
+-0.09536219
+-0.09433682
+1.1595
+Spine
+-0.07890169
+-0.04221219
+1.211209
+ShoulderCenter
+-0.07185942
+0.2739675
+1.223743
+Head
+-0.0909518
+0.420592
+1.232634
+ShoulderLeft
+-0.2021676
+0.2001797
+1.21564
+ElbowLeft
+-0.2819482
+-0.004456712
+1.317067
+WristLeft
+-0.4589622
+-0.02785933
+1.359995
+HandLeft
+-0.5117458
+-0.02134763
+1.362093
+ShoulderRight
+0.04689369
+0.1382852
+1.128962
+ElbowRight
+Not Found X
+Not Found Y
+Not Found Z
+WristRight
+0.1416539
+-0.02384778
+0.833801
+HandRight
+0.1500112
+0.003253492
+0.7814766
+HipLeft
+-0.1578613
+-0.1553984
+1.175131
+KneeLeft
+-0.3656971
+-0.4148936
+1.499387
+AnkleLeft
+-0.5159737
+-0.6384524
+1.573535
+FootLeft
+Not Found X
+Not Found Y
+Not Found Z
+HipRight
+-0.04036365
+-0.1597871
+1.117392
+KneeRight
+Not Found X
+Not Found Y
+Not Found Z
+AnkleRight
+Not Found X
+Not Found Y
+Not Found Z
+FootRight
+Not Found X
+Not Found Y
+Not Found Z
